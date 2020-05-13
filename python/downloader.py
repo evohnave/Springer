@@ -16,7 +16,7 @@ PWD = Path('J:/Springer')
 
 FILE_TYPES = {
         'pdf': 'content/pdf',
-        'epub': 'download/epub'
+        #'epub': 'download/epub'
     }
 
 def fix_author(author):
