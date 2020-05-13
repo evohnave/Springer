@@ -8,3 +8,5 @@ I store my pdf's by author's name, last name first.  So `springer_downloader` wi
 If you want to store it elsewhere, edit PWD in the constants section of the module.
 
 I used this to download all the files... others have written their modules to only download certain subject areas; it should be easy to modify this code to do that.
+
+For some reason, the epub download doesn't work, so I edited out the epub file_type.
